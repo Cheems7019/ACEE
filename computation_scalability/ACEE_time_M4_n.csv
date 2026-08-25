@@ -1,0 +1,5 @@
+method,n_size,x_dim,train_time_s,sample_time_s
+ACEE,1000,30,7.214,22.617
+ACEE,2000,30,7.094,23.014
+ACEE,5000,30,7.116,24.470
+ACEE,10000,30,8.419,23.367

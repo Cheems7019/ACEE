@@ -1,0 +1,41 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments and local configuration
+.venv/
+venv/
+env/
+.env
+.env.*
+
+# Editors and notebooks
+.idea/
+.vscode/
+.ipynb_checkpoints/
+*.swp
+*~
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+
+# Generated experiment artifacts
+/data/
+/results/
+/ckpt/
+/examples/data/
+/examples/results/
+/examples/ckpt/
+/transfer_learning/data/
+/transfer_learning/results/
+/IHDP/results/
+/computation_scalability/data/
+/computation_scalability/results/
+
+# External comparison implementations and outputs are not distributed
+/competitors/

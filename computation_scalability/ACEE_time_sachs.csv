@@ -1,0 +1,5 @@
+method,n_samples,train_time_s,sample_time_s
+ACEE,1000,83.678,149.644
+ACEE,2000,86.646,157.100
+ACEE,5000,88.429,165.329
+ACEE,10000,123.301,170.989
